@@ -15,7 +15,3 @@
   - [Stopee](https://github.com/neursh/stopee) `Planned | Extension`.
 - 🔐 Archived:
   - [E14](https://github.com/E14VN) `Insufficient funds | Full-stack | Flutter & Nodejs`.
-
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=neursh&show_icons=true&theme=transparent" />
-</div>
