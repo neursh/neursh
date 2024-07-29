@@ -1,7 +1,7 @@
 <img width=480 src="https://github.com/user-attachments/assets/165a02b4-affb-4959-9283-1aa4b351fa1a" />
 <br>
 <sub>
-  Inside (React Three)
+  Inside the emptiness (React Three)
 </sub>
 
 # Me!
