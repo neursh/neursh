@@ -1,8 +1,10 @@
-👋 Hi, me make stuff.
-
-**Most of my repos on here are documented on how it works and why did I decided to make that. So be sure to check it out!**
+👋 Hi, me make stuff since 2020.
+<br>
+<sup><sub>my first stuff was actually made in 2017, an HTML dummy site on sketchy hosting provider.</sub></sup>
 
 - 🔭 I'm currently working on:
-  - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, promotional website | React, Three.js, GLSL`.
-  - [Induction Stove](https://github.com/neursh/induction-stove) `Planned | Microcontroller | Arudino`.
-  - [Stopee](https://github.com/neursh/stopee) `Planned | Extension`.
+  - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, promotional website | Typescript, GLSL`.
+  - [Open Meteo Dart](https://github.com/neursh/open-meteo-dart) `Owner, maintainer | Package | Dart`.
+  - [xPalm](https://github.com/neursh/xPalm), [xPlam Client](https://github.com/neursh/xPalm_client) `Done | Tool | Flutter, Python`.
+  - [Tray yeeter](https://github.com/neursh/tray_yeeter_sharp) `Alpha | Tool | C#, .NET`.
+  - ... And other weird things on the side.
