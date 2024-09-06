@@ -1,6 +1,5 @@
-<kbd>
- <img src="https://github.com/user-attachments/assets/95628f74-e3fb-41a6-b7a5-74f9369ba916" />
-</kbd>
+https://github.com/user-attachments/assets/96bb212a-2129-4869-af86-fe34948e0b5f
+
 <sup> Spideration | My first website project | Upcoming </sup>
 <br>
 <br>
