@@ -1,4 +1,8 @@
-👋 Hi, me make stuff since 2020.
+<img src="https://github.com/user-attachments/assets/95628f74-e3fb-41a6-b7a5-74f9369ba916" />
+<sup align=left> Spideration | My first website project | Upcoming </sup>
+<br>
+<br>
+👋 Hi, hello, howdy, welcome to my personal github space, me make stuff in tech since 2020.
 <br>
 <sup><sub>my first stuff was actually made in 2017, an HTML dummy site on sketchy hosting provider.</sub></sup>
 
