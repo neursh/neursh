@@ -1,7 +1,7 @@
 <kbd>
  <img src="https://github.com/user-attachments/assets/95628f74-e3fb-41a6-b7a5-74f9369ba916" />
 </kbd>
-<sup> <br> Spideration | My first website project | Upcoming </sup>
+<sup> Spideration | My first website project | Upcoming </sup>
 <br>
 <br>
 👋 Hi, hello, howdy, welcome to my personal github space, i'm neurs*, i make stuff in tech since 2020, so i'm new around here.
