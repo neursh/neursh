@@ -12,7 +12,8 @@ https://github.com/user-attachments/assets/96bb212a-2129-4869-af86-fe34948e0b5f
 <sup><sub>my first stuff was made in 2017, an HTML dummy site on sketchy hosting provider.</sub></sup>
 
 - 🔭 I'm currently working on:
-  - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, promotional website | Typescript, GLSL`.
+  - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, company's website | Typescript, GLSL`.
+  - Unknown `Commission | Educational website | Typescript, GLSL`.
   - [Open Meteo Dart](https://github.com/neursh/open-meteo-dart) `Owner, maintainer | Package | Dart`.
   - [xPalm](https://github.com/neursh/xPalm), [xPlam Client](https://github.com/neursh/xPalm_client) `Done | Tool | Flutter, Python`.
   - [Tray yeeter](https://github.com/neursh/tray_yeeter_sharp) `Alpha | Tool | C#, .NET`.
