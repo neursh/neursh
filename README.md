@@ -19,7 +19,7 @@
 
 And by the way, thanks for checking by, means the world to me!
 
-### Showcase
+### Featured
 https://github.com/user-attachments/assets/ce37583d-c4a2-43aa-bb37-9dcc43b7b639
 
 <sup>
