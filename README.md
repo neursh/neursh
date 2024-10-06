@@ -4,11 +4,6 @@
   (!) nickname of course, funny thing is that i don't even know how to pronounce it. so you can call it whatever you want, isn't that great?
 </sup>
 <br/>
-<sup>
-  <sub>
-    when i locked into making stuff, i also happened to know i'm a furry
-  </sub>
-</sup>
 
 - 🔭 I'm currently working on:
   - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, company's website | Typescript, GLSL`.
