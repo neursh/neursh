@@ -1,15 +1,3 @@
-This reminds me of the song "Inertia" by AJR.
-```
-An object in motion, don't ask where I'm going
-'Cause where I am goin' is right where I am.
-```
-https://github.com/user-attachments/assets/ce37583d-c4a2-43aa-bb37-9dcc43b7b639
-
-<sup>
-  Spideration | My first website project | Upcoming
-</sup>
-<br/>
-<br/>
 👋 Hi, hello, howdy, welcome to my personal github space, i'm neurs(!), i make stuff in tech since 2020, so i'm new around here.
 <br/>
 <sup>
@@ -30,3 +18,16 @@ https://github.com/user-attachments/assets/ce37583d-c4a2-43aa-bb37-9dcc43b7b639
   - ... And other weird things on the side.
 
 And by the way, thanks for checking by, means the world to me!
+
+### Showcase
+https://github.com/user-attachments/assets/ce37583d-c4a2-43aa-bb37-9dcc43b7b639
+
+<sup>
+  Spideration | My first website project | Upcoming
+</sup>
+
+This reminds me of the song "Inertia" by AJR.
+```
+An object in motion, don't ask where I'm going
+'Cause where I am goin' is right where I am.
+```
