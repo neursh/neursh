@@ -1,4 +1,4 @@
-👋 Hi, hello, howdy, welcome to my personal github space, i'm neurs(!), i make stuff in tech since 2020, so i'm new around here.
+👋 Hi, hello, howdy, welcome to my github, i'm neurs(!), i make stuff in tech since 2020, so i'm new around here.
 <br/>
 <sup>
   (!) nickname of course, funny thing is that i don't even know how to pronounce it. so you can call it whatever you want, isn't that great?
