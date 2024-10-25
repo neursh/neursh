@@ -16,7 +16,3 @@ And by the way, thanks for checking by, means the world to me!
 
 ### Featured
 https://github.com/user-attachments/assets/693bb851-de3a-4bcd-9c9a-728395dcd5ed
-
-<sup>
-  Spideration | My first website project | Upcoming
-</sup>
