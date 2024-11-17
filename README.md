@@ -7,6 +7,7 @@
 
 - 🔭 I'm currently working on:
   - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, company's website | Typescript, GLSL`.
+  - [Fluff] `Owner | Tool | Rust, Typescript`
   - [Open Meteo Dart](https://github.com/neursh/open-meteo-dart) `Owner, maintainer | Package | Dart`.
   - [xPalm](https://github.com/neursh/xPalm), [xPlam Client](https://github.com/neursh/xPalm_client) `Done | Tool | Flutter, Python`.
   - [Tray yeeter](https://github.com/neursh/tray_yeeter_sharp) `Alpha | Tool | C#, .NET`.
