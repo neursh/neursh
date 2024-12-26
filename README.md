@@ -15,7 +15,7 @@
 
 And by the way, thanks for checking by, means the world to me!
 
-![](https://komarev.com/ghpvc/?username=neursh&label=silly+Goobers)
+![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
 ### Featured
 https://github.com/user-attachments/assets/693bb851-de3a-4bcd-9c9a-728395dcd5ed
