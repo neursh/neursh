@@ -15,7 +15,6 @@
 
 And by the way, thanks for checking by, means the world to me!
 
-![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
+<img align=center src="https://github.com/user-attachments/assets/8ae91119-18db-46f4-b6db-c33fa90b4d34" />
 
-### Featured
-https://github.com/user-attachments/assets/693bb851-de3a-4bcd-9c9a-728395dcd5ed
+<sup>[nabatabatabata@twitter](https://x.com/nabatabatabata) owns this character, not mine, and the art style is lovely. Like candy for the eyes.</sup>
