@@ -19,4 +19,4 @@ And by the way, thanks for checking by, means the world to me!
 
 <img align=center src="https://github.com/user-attachments/assets/8ae91119-18db-46f4-b6db-c33fa90b4d34" />
 
-<sup>[nabatabatabata@twitter](https://x.com/nabatabatabata) owns this character, not mine, and the art style is lovely. Like candy for the eyes.</sup>
+<sup>This picture and pfp are brought from [nabatabatabata@twitter](https://x.com/nabatabatabata). I do not own anything. Please check out their work, it's lovely.</sup>
