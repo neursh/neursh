@@ -13,6 +13,8 @@
   - [Tray yeeter](https://github.com/neursh/tray_yeeter_sharp) `Alpha | Tool`
   - ... And other weird things on the side
 
+![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
+
 And by the way, thanks for checking by, means the world to me!
 
 <img align=center src="https://github.com/user-attachments/assets/8ae91119-18db-46f4-b6db-c33fa90b4d34" />
