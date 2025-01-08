@@ -7,6 +7,7 @@
 
 - 🔭 I'm currently working on:
   - neurs.click `Owner | Creative, portfolio website`
+  - [Neurx](https://github.com/neursh/neurx) `Owner | Keyboard`
   - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, company's website`
   - [Open Meteo Dart](https://github.com/neursh/open-meteo-dart) `Owner, maintainer | Package`
   - [xPalm](https://github.com/neursh/xPalm), [xPlam Client](https://github.com/neursh/xPalm_client) `Done | Tool`
