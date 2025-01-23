@@ -6,7 +6,6 @@
 <br/>
 
 - 🔭 I'm currently working on:
-  - neurs.click `Owner | Creative, portfolio website`
   - [Neurx](https://github.com/neursh/neurx) `Owner | Keyboard`
   - [Spideration](https://www.facebook.com/spideration) `Commission | Creative, company's website`
   - [Open Meteo Dart](https://github.com/neursh/open-meteo-dart) `Owner, maintainer | Package`
