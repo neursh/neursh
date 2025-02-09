@@ -1,4 +1,4 @@
-![preview](https://github.com/user-attachments/assets/cfa0ff70-cfa0-4033-b56e-b7a1c2f3bbbc)
+![preview](https://github.com/user-attachments/assets/17ed03c7-3ae1-4966-9ec7-d61ecfaa78c2)
 
 👋 Hi, hello, howdy, welcome to my github, i'm neurs(!), a high school student, i make stuff in tech seriously since 2020 (goofing around since 2017, i was a child back then, literally), so i'm new around here.
 <br/>
