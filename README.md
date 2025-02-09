@@ -1,5 +1,5 @@
 ![preview](https://github.com/user-attachments/assets/17ed03c7-3ae1-4966-9ec7-d61ecfaa78c2)
-<sup><a href="neurs.space">neurs.space</a></sup>
+<sup><a href="https://neurs.space">neurs.space</a></sup>
 
 👋 Hi, hello, howdy, welcome to my github, i'm neurs(!), a high school student, i make stuff in tech seriously since 2020 (goofing around since 2017, i was a child back then, literally), so i'm new around here.
 <br/>
