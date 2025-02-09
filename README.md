@@ -1,5 +1,12 @@
 ![preview](https://github.com/user-attachments/assets/cfa0ff70-cfa0-4033-b56e-b7a1c2f3bbbc)
 
+👋 Hi, hello, howdy, welcome to my github, i'm neurs(!), a high school student, i make stuff in tech seriously since 2020 (goofing around since 2017, i was a child back then, literally), so i'm new around here.
+<br/>
+<sup>
+  (!) nickname of course, funny thing is that i don't even know how to pronounce it. so you can call it whatever you want, isn't that great?
+</sup>
+<br/>
+
 - 🔭 I'm currently working on:
   - [Portfolio](https://neurs.space) `Owner | Creative, portfolio website`
   - [Neurx](https://github.com/neursh/neurx) `Owner | Keyboard`
