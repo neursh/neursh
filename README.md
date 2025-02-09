@@ -13,6 +13,6 @@
 
 Thanks for checking by, means the world to me!
 
-<img align=left width="650" src="https://github.com/user-attachments/assets/8ae91119-18db-46f4-b6db-c33fa90b4d34" />
+<img align=left width="500" src="https://github.com/user-attachments/assets/8ae91119-18db-46f4-b6db-c33fa90b4d34" />
 
 <sup>Credit: [nabatabatabata@twitter](https://x.com/nabatabatabata). I do not own this character nor the art. Please check out their work, it's lovely.</sup>
