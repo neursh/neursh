@@ -1,6 +1,4 @@
-
-![preview](https://github.com/user-attachments/assets/fe841fb9-53cf-4863-8be3-4df669a025d0)
-
+![preview](https://github.com/user-attachments/assets/d77a8b0b-f304-4b8c-9c1c-f9560a5b8a71)
 - 🔭 I'm currently working on:
   - [Portfolio](https://neurs.space) `Owner | Creative, portfolio website`
   - [Neurx](https://github.com/neursh/neurx) `Owner | Keyboard`
