@@ -13,7 +13,7 @@
 
 Thanks for checking by, means the world to me!
 
-<div>
+<div align=center>
   <img width="500" src="https://github.com/user-attachments/assets/8ae91119-18db-46f4-b6db-c33fa90b4d34" />
   <br>
   <sup>Credit: <a href="https://x.com/nabatabatabata">nabatabatabata@twitter</a>. I do not own this character nor the art. Please check out their work, it's lovely.</sup>
