@@ -1,4 +1,4 @@
-![preview](https://github.com/user-attachments/assets/558d1632-bb5f-415c-9e7a-a3181e7c3b11)
+![screenshot-2025-06-18-20-35-44](https://github.com/user-attachments/assets/2c277d72-1bff-4afb-9c23-9b58e29ff109)
 <sup><a href="https://neurs.space">neurs.space</a> | under construction</sup>
 
 - 🔭 I'm currently working on:
