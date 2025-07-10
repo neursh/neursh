@@ -12,4 +12,6 @@
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
+You can contact me via email: `me@neurs.space`
+
 Thanks for checking by, means the world to me! ✪ ω ✪
