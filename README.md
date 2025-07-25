@@ -5,4 +5,4 @@
 
 You can contact me via email: `me@neurs.space`
 
-Thanks for checking by, means the world to me! ✪ ω ✪
+Thanks for checking by, means the world to me!
