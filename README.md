@@ -1,6 +1,3 @@
-![screenshot-2025-06-18-20-35-44](https://github.com/user-attachments/assets/2c277d72-1bff-4afb-9c23-9b58e29ff109)
-<sup><a href="https://neurs.space">neurs.space</a> | under construction</sup>
-
 Some of my repos has the letter "x" in it. It's just that i've ran out of name to pick, so just one random word, and slaps an "x" cuz why not.
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
