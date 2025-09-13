@@ -1,6 +1,6 @@
-hello hi, chàoo x3 welcome to my lil public hideout!
+hello hi, xin chàoo x3 welcome to my lil public hideout!
 
-me is a fullstack dev since 2020-ish, idk, and also a hobbyist web graphic & motion designer!
+me is a fullstack dev since 2020-ish, idk, and also a hobbyist graphic & motion designer! the goal is to make my own little studios 🥀🫩
 
 some of my repos has the letter "x" in it. it's just that i've ran out of names to pick, so just one random word, and slaps an "x" cuz why not.
 
