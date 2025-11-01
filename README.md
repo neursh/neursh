@@ -14,7 +14,7 @@ me is a fullstack dev since somewhere around 2022 (late covid era), with crippli
 
 and also a hobbyist graphic & motion designer!
 
-<img width="1664" height="1004" alt="My cube" src="https://github.com/user-attachments/assets/4b12f7e9-6732-4bc2-80e2-84a4b5e8fe2b" />
+<img width="1664" height="531" alt="My cube" src="https://github.com/user-attachments/assets/ee4abd7a-22d1-4eb2-97ca-2c516c2555f3" />
 <sup>My cube</sup>
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
