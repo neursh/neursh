@@ -19,4 +19,6 @@ and also a hobbyist in other fields:
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
+how my name is proxied online: `real name (only mutuals)` -> `neurs(_, h)` -> `lumi (oc name)`.
+
 you can contact me via email `me@neurs.space` or discord at `neurs`.
