@@ -1,10 +1,6 @@
 <sub>
 
->`learns programming`
-
-> `gets hit with the furry package dependency that comes with it`
-
-> `already installed`
+`calculus is absolutely frying me rn help`
 
 </sub>
 
