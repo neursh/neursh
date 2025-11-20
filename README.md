@@ -17,6 +17,4 @@ The thing I hated the most while making stuff with rust is that it will probably
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
-how my name is proxied online: `real name (only mutuals)` -> `neurs(_, h)` -> `lumi (oc name)`.
-
 you can contact me via email `me@neurs.space` or discord at `neurs`.
