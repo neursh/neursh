@@ -4,6 +4,8 @@ Available in [VIE](https://github.com/neursh/neursh/blob/main/VIE.md).
 
 <br>
 
+`calculus is absolutely frying me rn help`
+
 </sub>
 
 xin chào x3 welcome to my lil public hideout!
