@@ -1,6 +1,8 @@
 <sub>
 
-`calculus is absolutely frying me rn help`
+Available in [VIE](https://github.com/neursh/neursh/blob/main/VIE.md).
+
+<br>
 
 </sub>
 
