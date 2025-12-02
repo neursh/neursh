@@ -1,6 +1,6 @@
 <sub>
 
-Available in [VIE](https://github.com/neursh/neursh/blob/main/VIE.md).
+Yea yea phiên bản tiếng việt [VIE](https://github.com/neursh/neursh/blob/main/VIE.md).
 
 <br>
 
@@ -16,8 +16,8 @@ and also a hobbyist in other fields:
 
 The thing I hated the most while making stuff with rust is that it will probably never fails at runtime. What do you mean I wrote everything correctly and it works??? Interpreted languages really took a chunk of my soul init.
 
-<img width="1664" height="531" alt="My cube" src="https://github.com/user-attachments/assets/ee4abd7a-22d1-4eb2-97ca-2c516c2555f3" />
-<sup>My cube</sup>
+<img width="1664" height="542" src="https://github.com/user-attachments/assets/56bae0b5-a63d-4445-9a3b-cb51bc8e0d25" />
+<sup>A long commission finally progresses, i'm happy with how far i've gone right now</sup>
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
