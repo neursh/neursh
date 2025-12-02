@@ -17,7 +17,7 @@ những lĩnh vực mà mình thấy thú vị:
 
 Thứ mà mình ghét nhất khi làm với rust là nó khó mà fail khi mà đã build được. Hoh?? Mình viết đúng và nó chạy?? Ngôn ngữ thông dịch cắm mất 1 phần hồn mình mất rồi ToT
 
-<img width="1664" height="542" src="https://github.com/user-attachments/assets/56bae0b5-a63d-4445-9a3b-cb51bc8e0d25" />
+<img width="1680" height="534" alt="image" src="https://github.com/user-attachments/assets/630f0bea-af29-4cc1-8a29-053715432e30" />
 <sup>Cái comm lâu rồi mới được giải thoát</sup>
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
