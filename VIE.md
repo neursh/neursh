@@ -1,6 +1,6 @@
 <sub>
 
-Available in [ENG](https://github.com/neursh/neursh/blob/main/README.md).
+Also avaiable in english [ENG](https://github.com/neursh/neursh/blob/main/README.md).
 
 <br>
 
@@ -17,8 +17,8 @@ những lĩnh vực mà mình thấy thú vị:
 
 Thứ mà mình ghét nhất khi làm với rust là nó khó mà fail khi mà đã build được. Hoh?? Mình viết đúng và nó chạy?? Ngôn ngữ thông dịch cắm mất 1 phần hồn mình mất rồi ToT
 
-<img width="1664" height="531" alt="My cube" src="https://github.com/user-attachments/assets/ee4abd7a-22d1-4eb2-97ca-2c516c2555f3" />
-<sup>My cube</sup>
+<img width="1664" height="542" src="https://github.com/user-attachments/assets/56bae0b5-a63d-4445-9a3b-cb51bc8e0d25" />
+<sup>Cái comm lâu rồi mới được giải thoát</sup>
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
