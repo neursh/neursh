@@ -1,6 +1,6 @@
 <sub>
 
-Also avaiable in english [ENG](https://github.com/neursh/neursh/blob/main/README.md).
+Also avaiable in english [ENG](https://github.com/neursh).
 
 <br>
 
