@@ -14,8 +14,6 @@ and also a hobbyist in other fields:
 - hardware & embedded systems.
 - graphic, motion and shader design.
 
-The thing I hated the most while making stuff with rust is that it will probably never fails at runtime. What do you mean I wrote everything correctly and it works??? Interpreted languages really took a chunk of my soul init.
-
 <img width="1680" height="534" alt="image" src="https://github.com/user-attachments/assets/630f0bea-af29-4cc1-8a29-053715432e30" />
 <sup>A long commission finally progresses, i'm happy with how far i've gone right now</sup>
 
