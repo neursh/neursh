@@ -19,4 +19,4 @@ and also a hobbyist in other fields:
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
-you can contact me via email `me@neurs.space` or discord at `neurs`.
+you can contact me via email `neurs@neverany.art` or discord at `neurs`.
