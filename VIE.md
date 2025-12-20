@@ -20,4 +20,4 @@ những lĩnh vực mà mình "chạm chạm" bên lề:
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
-bạn có thể liên lạc với mình qua `me@neurs.space` hoặc là discord `neurs`.
+bạn có thể liên lạc với mình qua `neurs@neverany.art` hoặc là discord `neurs`.
