@@ -13,6 +13,7 @@ me is a fullstack dev since somewhere around 2022 (late covid era), with crippli
 and also a hobbyist in other fields:
 - hardware & embedded systems.
 - graphic, motion and shader design.
+- basic 3d stuff.
 
 <img width="1680" height="534" alt="image" src="https://github.com/user-attachments/assets/630f0bea-af29-4cc1-8a29-053715432e30" />
 <sup>A long commission finally progresses, i'm happy with how far i've gone right now</sup>
