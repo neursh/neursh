@@ -2,10 +2,6 @@
 
 Also avaiable in english [ENG](https://github.com/neursh).
 
-<br>
-
-`giải tích đang hành tui cứu...`
-
 </sub>
 
 hello x3 chào mừng bạn đến với khu ổ chuột của mình!
