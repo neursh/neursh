@@ -13,7 +13,7 @@ i'm also a hobbyist in other fields:
 
 I love system design and security, because big number go boom while keeping it safe.
 
-<img width="223" height="122" alt="image" src="https://github.com/user-attachments/assets/c1380cdd-74c0-4529-9fbe-d70a954365f6" />
+<img width="223" height="122" alt="image" src="https://github.com/user-attachments/assets/68a7922a-9219-4cf9-a04e-98bf3b72c539" />
 
 <sup>Hitting one of `Koii`'s fully implemented API endpoint and running load testing, all on my laptop.</sup>
 
