@@ -15,7 +15,7 @@ I love system design and security, because big number go boom while keeping it s
 
 <img width="304" height="175" alt="image" src="https://github.com/user-attachments/assets/d08943d7-36f8-4078-a782-be01919d3f95" />
 
-<sup>Hitting one of `Koii`'s API endpoint fully featured and running load testing, all on my laptop.</sup>
+<sup>Hitting one of `Koii`'s API endpoint fully implemented and running load testing, all on my laptop.</sup>
 
 <img width="2937" height="1027" src="https://github.com/user-attachments/assets/fc28ed22-b0d3-4d06-801c-7b17cb3cf856" />
 <sup>A <b>long</b> commission finally progresses, i'm happy with how far i've gone right now</sup>
