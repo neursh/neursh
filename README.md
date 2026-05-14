@@ -11,7 +11,7 @@ i'm also a hobbyist in other fields:
 - graphic, motion and shader design.
 - technical 3d stuff (i don't know where to get good textures, or meshes).
 
-I love system design and security, because big number go boom.
+I love system design and security, because big number go boom while keeping it safe.
 
 <img width="304" height="175" alt="image" src="https://github.com/user-attachments/assets/d08943d7-36f8-4078-a782-be01919d3f95" />
 
