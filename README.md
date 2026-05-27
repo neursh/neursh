@@ -1,9 +1,3 @@
-<sub>
-
-Yea yea phiên bản tiếng việt [VIE](https://github.com/neursh/neursh/blob/main/VIE.md).
-
-</sub>
-
 xin chào x3 welcome to my lil public hideout!
 me is a fullstack dev since somewhere around 2022 (late covid era), with crippling impostor syndrome.
 i'm also a hobbyist in other fields:
