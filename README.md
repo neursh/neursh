@@ -1,5 +1,5 @@
 xin chào x3 welcome to my lil public hideout!
-me is a fullstack dev since somewhere around 2022 (late covid era), with crippling impostor syndrome.
+me is a fullstack dev since somewhere around 2020 - 2022, with crippling impostor syndrome.
 i'm also a hobbyist in other fields:
 - hardware & embedded systems.
 - graphic, motion and shader design.
