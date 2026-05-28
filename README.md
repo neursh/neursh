@@ -4,8 +4,8 @@ me is a fullstack dev since somewhere around 2020 - 2022, with crippling imposto
 
 > [!IMPORTANT]
 > i don't like:
-> - the people that boasts about using llm, generative models, producing slop, larpers.
 > - ai companies doing everything in their power to collect human skills as a commodity.
+> - and the people supporting it: the people that can't think for themselves when there's no generative model babysitting them, likes to produce slop, or larps hard.
 
 i'm also a hobbyist in other fields:
 - hardware & embedded systems.
