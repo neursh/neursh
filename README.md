@@ -1,5 +1,12 @@
 xin chào x3 welcome to my lil public hideout!
+
 me is a fullstack dev since somewhere around 2020 - 2022, with crippling impostor syndrome.
+
+> [!IMPORTANT]
+> i don't like:
+> - the people that boasts about using llm, generative models, producing slop, larpers.
+> - ai companies doing everything in their power to collect human skills as a commodity.
+
 i'm also a hobbyist in other fields:
 - hardware & embedded systems.
 - graphic, motion and shader design.
