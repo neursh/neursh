@@ -2,7 +2,7 @@ xin chào x3 welcome to my lil public hideout!
 
 me is a fullstack dev since somewhere around 2020 - 2022, with crippling impostor syndrome.
 
-a proud vercel hater.
+the biggest vercel hater bc of its business model and pricing.
 
 > [!IMPORTANT]
 > i don't like:
